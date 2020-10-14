@@ -33,12 +33,15 @@
             "bearer": null
         }
     },
-    "UPLOAD": {
+        "UPLOAD": {
         "uri": "/home_content/load",
         "json": true,
         "method": "POST",
         "auth": {
             "bearer": null
+        },
+        "headers":{
+            "X-DB-Profile": "BLUDB"
         }
     },
     "LOAD": {
