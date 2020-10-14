@@ -37,7 +37,7 @@ npm i db2-rest-client-ibm-cloud --save
 ```
 
 ```javascript
-const Db2RestClient = require('db2-rest-client');
+const Db2RestClient = require('db2-rest-client-ibm-cloud');
 
 // calling it directly in a root script
 (async () => {
