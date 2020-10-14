@@ -5,6 +5,8 @@
 [![NPM Downloads][downloads-image]][downloads-url]
 [![Coveralls Status][coveralls-image]][coveralls-url]
 
+MODIFICATION TO WORK WITH DB2 ON IBM CLOUD!
+
 Node.js client for [IBM Db2 (Warehouse) on Cloud](#references) REST API (previously DashDB).
 It is intended to be used for DevOps (administration, monitoring, data load) for DB2 on Cloud service.
 The client can be used as part of a Node.js application or as a CLI tool.
