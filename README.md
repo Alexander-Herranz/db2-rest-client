@@ -1,4 +1,6 @@
-# db2-rest-client
+# db2-rest-client-ibm-cloud
+
+https://www.npmjs.com/package/@alexxxcoding/db2-rest-client-ibm-cloud
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -31,7 +33,7 @@ The target APIs are covering the following main areas: authentication, database 
 Installing the client locally and using it in a Node.JS application:
 
 ```bash
-npm i db2-rest-client --save
+npm i db2-rest-client-ibm-cloud --save
 ```
 
 ```javascript
