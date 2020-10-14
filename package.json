@@ -10,6 +10,7 @@
     "lint": "eslint index.js lib",
     "db2-rest-client": "node ./bin/db2-rest-client.js"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "bin": {
     "db2-rest-client": "./bin/db2-rest-client.js"
   },
